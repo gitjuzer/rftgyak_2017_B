@@ -12,7 +12,7 @@ Elsõ sor:
 
 Második sor:
 ------------
--Kiss Asztrik
+-Kiss Asztrik.
 
 Harmadik sor:
 -------------
