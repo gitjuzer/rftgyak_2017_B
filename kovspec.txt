@@ -1,0 +1,16 @@
+Követelmény specifikáció
+-----------------------
+
+
+Készítette: 
+-----------
+
+Elsõ sor:
+---------
+ -Balog Balázs
+
+Második sor:
+------------
+
+Harmadik sor:
+-------------
