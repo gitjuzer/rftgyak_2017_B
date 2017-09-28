@@ -13,6 +13,7 @@ Elsõ sor:
 Második sor:
 ------------
 -Kiss Asztrik
+-Dobozi András
 
 Harmadik sor:
 -------------
