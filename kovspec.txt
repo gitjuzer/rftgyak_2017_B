@@ -8,15 +8,16 @@ Készítette:
 Elsõ sor:
 ---------
  -Balog Balázs
+ -Makovinyi Krisztina
 
 Második sor:
 ------------
+-Kiss Asztrik
 
 Harmadik sor:
 -------------
-
+ -Sipos Dávid
 
 Bevezetés:
 ----------
  -A project célja a világmegváltás, és akorrupció megelõzése az Eu-s szabályok szerint :D
-
