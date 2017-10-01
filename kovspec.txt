@@ -12,8 +12,17 @@ Elsõ sor:
 
 Második sor:
 ------------
+<<<<<<< HEAD
 -Kiss Asztrik
 -Dobozi András
+=======
+-Kiss Asztrik.
+>>>>>>> 2f29bbe1bb25ceac783593bcaa1cf84aea25df1f
 
 Harmadik sor:
 -------------
+ -Sipos Dávid
+
+Bevezetés:
+----------
+ -A project célja a világmegváltás, és akorrupció megelõzése az Eu-s szabályok szerint :D
