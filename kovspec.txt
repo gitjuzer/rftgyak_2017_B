@@ -13,7 +13,7 @@ Második sor:
 ------------
  -Kiss Asztrik
  -Dobozi András
- -Eged Zsolt
+ -Eged Zsolt 
 
 Harmadik sor:
 -------------
