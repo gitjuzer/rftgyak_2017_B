@@ -13,7 +13,7 @@ Második sor:
 ------------
  -Kiss Asztrik
  -Dobozi András
- -Eged Zsolt 
+ -Eged Zsolt
 
 Harmadik sor:
 -------------
@@ -21,4 +21,4 @@ Harmadik sor:
 
 Bevezetés:
 ----------
- -A project célja a világmegváltás, és akorrupció megelõzése az Eu-s szabályok szerint :D
+ -A project célja a világmegváltás és a korrupció megelõzése az EU-s szabályok szerint :D
