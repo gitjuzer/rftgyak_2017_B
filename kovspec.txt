@@ -15,6 +15,7 @@ Második sor:
  -Dobozi András
  -Eged Zsolt
  -Fecske Márk
+ -Havas Márk
 
 Harmadik sor:
 -------------
