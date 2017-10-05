@@ -33,3 +33,18 @@ Balázsy Levente
 
 
 ------------------------------------------------------------------------
+
+Arduino által vezérelt okosház
+------------------------------
+Biztonsági és automatizálási funkciók bluetoothon keresztül az Androidos telefonunkkal.
+
+URL: https://github.com/dbzmonty/PTI_FOSZ_Robotika_Android_RFT_Beadando
+
+Tagok:
+- Dobozi András
+- Eged Zsolt
+- Bíró Patrik
+- Balázs Gergő
+
+--------------------------------------------------------------------------
+
