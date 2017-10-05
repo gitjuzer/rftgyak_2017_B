@@ -1,4 +1,18 @@
-Projektek listája
+﻿Projektek listája
 -----------------
+
+KeyWarrior
+----------
+Az alkalmazás egy böngészőben futó, gyors gépírást gyakoroltató játékot takar. A beúszó szöveget kell a usernek begépelnie, amire pontokat fog kapni. 
+
+Url:
+----
+https://github.com/FractalXX/KeyWarrior.git
+
+Tagok:
+------
+ - Bettenbuk Dániel
+ - Balog Balázs
+ - Makovinyi Krisztina
 
 
