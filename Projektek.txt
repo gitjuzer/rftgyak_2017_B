@@ -65,4 +65,18 @@ Tagok:
 -Sipos Dávid
 ---------------------
 
-++
+Szókereső
+----------
+Egy android szókereső alkalmazás, angol-magyar nyelven játszható.
+
+URL:
+----------
+https://github.com/Toxyc95/Szokereso.git
+
+Tagok:
+----------
+Bánka Milán
+Görbe Attila
+Molnár Krisztián
+
+-------------------------------------------------------
