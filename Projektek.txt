@@ -5,7 +5,9 @@
 Bot Projekt
 
 Leírás:
-Böngészős online MMORPG flash alapú játékhoz játékmenetet automatizáló program, mely "packet" alapon működik tehát közvetlenül a játékszerver streamelt csomagjaival kommunikál (nem flashinjection technológia).
+Böngészős online MMORPG flash alapú játékhoz játékmenetet automatizáló program, 
+mely "packet" alapon működik tehát közvetlenül a játékszerver streamelt csomagjaival kommunikál
+(nem flashinjection technológia).
 
 URL: https://github.com/levlevliva/Bot.git
 
