@@ -1,7 +1,6 @@
 Követelmény specifikáció
 -----------------------
 
-
 Készítette: 
 -----------
 
@@ -12,7 +11,14 @@ Elsõ sor:
 
 Második sor:
 ------------
--Kiss Asztrik
+ -Kiss Asztrik
+ -Dobozi András
+ -Eged Zsolt
 
 Harmadik sor:
 -------------
+ -Sipos Dávid
+
+Bevezetés:
+----------
+ -A project célja a világmegváltás és a korrupció megelõzése az EU-s szabályok szerint :D
