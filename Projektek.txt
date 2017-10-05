@@ -1,6 +1,22 @@
 ﻿Projektek listája
 -----------------
 
+
+Szókereső
+----------
+Egy android szókereső alkalmazás, angol-magyar nyelven játszható.
+
+URL:
+----------
+https://github.com/Toxyc95/Szokereso.git
+
+Tagok:
+----------
+Bánka Milán
+Görbe Attila
+Molnár Krisztián
+----------------------------
+
 KeyWarrior
 ----------
 Az alkalmazás egy böngészőben futó, gyors gépírást gyakoroltató játékot takar. A beúszó szöveget kell a usernek begépelnie, amire pontokat fog kapni. 
